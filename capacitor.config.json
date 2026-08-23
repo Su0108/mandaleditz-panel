@@ -1,0 +1,8 @@
+{
+  "appId": "com.mandalindustries.mandaleditz",
+  "appName": "MANDALEDITZ",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273588300861",
+    "project_id": "my-website-apo",
+    "storage_bucket": "my-website-apo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273588300861:android:be456ab0e15b8eea05ce54",
+        "android_client_info": {
+          "package_name": "com.netlify.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPoQySNS81H4mzsLbvY42Ttt2RP-SHYcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
